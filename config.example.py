@@ -1,5 +1,5 @@
 
-#Este archivo debe ser renombrado a config.py para funcionar
+#Este archivo debe ser renombrado a config.py para funcionar.
 
 config ={
 
